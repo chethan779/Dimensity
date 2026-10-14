@@ -1,4 +1,4 @@
-# 🌌 Dimensity OS (v1.0)
+# 🌌 Dimensity OS
 
 **Dimensity OS** is a lightweight, modern simulated desktop operating system built with Python, Tkinter, and Pygame. It features a curated dark-mode interface, responsive app launching, built-in productivity tools, an AI assistant, and a retro game arcade.
 
